@@ -5,4 +5,5 @@ permissionset 50111 MiTestPermSet
 
     Permissions =
         codeunit "MiTest" = X;
+    //just a little comment to check if github works properly
 }
